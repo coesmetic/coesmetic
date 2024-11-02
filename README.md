@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @coesmetic
 - 👀 I’m interested in ... Cycling and Swimming
-- 🌱 I’m currently learning ... Java
-- 💞️ I’m looking to collaborate on ... IDK
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ... HTML, CSS, and JavaScript
+- 💞️ I’m looking to collaborate on ... None
+- 📫 How to reach me ... genevincent@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Random
 
